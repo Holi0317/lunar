@@ -1,0 +1,28 @@
+{
+  "name": "lunar",
+  "version": "0.1.1",
+  "homepage": "https://github.com/conis/chinese-lunar",
+  "authors": [
+    "Conis <conis.yi@gmail.com> (http://iove.net/)"
+  ],
+  "description": "农历与公历相互转换的类库，支持农历的之间的加减运算，并提供生肖、干支等，支持1900-2100年",
+  "main": "./lib/chinese-lunar.js",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "chinese lunar",
+    "lunar",
+    "农历",
+    "旧历"
+  ],
+  "license": "NONE",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
